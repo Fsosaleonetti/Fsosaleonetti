@@ -10,4 +10,4 @@ Me apasiona diseñar soluciones de software eficientes, automatizar procesos de 
 - **Productividad:** IA Prompting (Claude, Gemini)
 
 📫 ¿Cómo contactarme? 
-[LinkedIn](TU_LINK_DE_LINKEDIN) | fabricio.sosa.leonetti@outlook.com
+[LinkedIn](https://www.linkedin.com/in/fabricioagustinsosaleonetti/) | fabricio.sosa.leonetti@outlook.com
